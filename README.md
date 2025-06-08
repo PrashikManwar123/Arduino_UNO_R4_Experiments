@@ -25,7 +25,8 @@ This repository contains a collection of beginner to intermediate level Arduino 
 | [LED]     | Light Emitting Diode, used for visual signals              | [Blink Example](https://docs.arduino.cc/built-in-examples/basics/Blink/) |
 | [Resistor]                   | Used to limit current to LEDs                              | |
 | [Push Button] | Used to provide digital input                             | [Button Tutorial](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button) |
-| [Potentiometer]        | Variable resistor to control analog signals                | [Potentiometers 101][(https://components101.com/potentiometers)](https://docs.arduino.cc/learn/electronics/potentiometer-basics/) |
+| [Potentiometer]        | Variable resistor to control analog signals                | [Potentiometer]
+[(https://docs.arduino.cc/learn/electronics/potentiometer-basics/)] |
 | [Waveshare LCD1602 RGB] | 16x2 LCD display module with RGB backlight support        | [Waveshare LCD Docs](https://www.waveshare.com/wiki/LCD1602_RGB_Module) |
 | [DFRobot VEML7700] | High precision ambient light sensor                       | [VEML7700 Wiki](https://wiki.dfrobot.com/VEML7700_Lux_Sensor_SKU_SEN0364) |
 | [Jumper Wires & Breadboard] | Used for circuit connections without soldering            | [Breadboard Info](https://components101.com/misc/breadboard) |
