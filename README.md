@@ -23,7 +23,7 @@ This repository contains a collection of beginner to intermediate level Arduino 
 |-----------------------------------|-----------------------------------------------------------|---------------------|
 | [Arduino UNO R4 WiFi] | Microcontroller board with Wi-Fi and extended features     | [Arduino Docs](https://docs.arduino.cc/hardware/uno-r4-wifi) |
 | [LED]     | Light Emitting Diode, used for visual signals              | [Blink Example](https://docs.arduino.cc/built-in-examples/basics/Blink/) |
-| [Resistor]                   | Used to limit current to LEDs                              | [Resistors 101](https://components101.com/resistors) |
+| [Resistor]                   | Used to limit current to LEDs                              | |
 | [Push Button] | Used to provide digital input                             | [Button Tutorial](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button) |
 | [Potentiometer]        | Variable resistor to control analog signals                | [Potentiometers 101](https://components101.com/potentiometers) |
 | [Waveshare LCD1602 RGB] | 16x2 LCD display module with RGB backlight support        | [Waveshare LCD Docs](https://www.waveshare.com/wiki/LCD1602_RGB_Module) |
