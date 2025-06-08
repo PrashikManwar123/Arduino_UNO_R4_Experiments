@@ -28,7 +28,7 @@ This repository contains a collection of beginner to intermediate level Arduino 
 | [Potentiometer]        | Variable resistor to control analog signals                | [Potentiometer](https://docs.arduino.cc/learn/electronics/potentiometer-basics/) |
 | [Waveshare LCD1602 RGB] | 16x2 LCD display module with RGB backlight support        | [Waveshare LCD Docs](https://www.waveshare.com/wiki/LCD1602_RGB_Module) |
 | [DFRobot VEML7700] | High precision ambient light sensor                       | [VEML7700 Wiki](https://www.mouser.in/ProductDetail/DFRobot/SEN0228?qs=0lQeLiL1qyZRmybxFLEPOg%3D%3D&srsltid=AfmBOoorS9A9d0Slow7XvMIO676AEAR7UqTdO6TxNq46zONPNthIYIMp) |
-| [Jumper Wires & Breadboard] | Used for circuit connections without soldering            | [Breadboard Info]([https://components101.com/misc/breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)) |
+| [Jumper Wires & Breadboard] | Used for circuit connections without soldering            | [Breadboard Info](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all) |
 
 ---
 
