@@ -1,6 +1,6 @@
 # Arduino IoT Experiments
 
-This repository contains a collection of beginner to intermediate level Arduino IoT experiments. Each project demonstrates a specific concept using basic components like LEDs, buttons, potentiometers, sensors, and LCDs. Projects are organized in separate folders with their own `README.md` files and `.ino` source code.
+This repository contains a collection of beginner to intermediate level Arduino IoT experiments using Arduino Uno R4 Wifi Module. Each project demonstrates a specific concept using basic components like LEDs, buttons, potentiometers, sensors, and LCDs. Projects are organized in separate folders with their own `README.md` files and `.ino` source code.
 
 ---
 
