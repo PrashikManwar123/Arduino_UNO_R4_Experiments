@@ -4,7 +4,7 @@ This project demonstrates: reading sensor data (e.g. light) and showing it on LC
 
 # Requirements
 Arduino Uno R4 WiFi,
-Light sensor (e.g. VEML7700),
+Light sensor (e.g. VEML7700 SEN0228),
 16x2 LCD (I2C or parallel),
 Breadboard and jumper wires,
 USB cable for programming,
