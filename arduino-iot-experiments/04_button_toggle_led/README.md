@@ -3,14 +3,14 @@
 This project demonstrates: controlling an LED using a push button.
 
 # Requirements
-Arduino Uno R4 WiFi
-Push button
-LED
-220Ω resistor
-10kΩ resistor (pull-down)
-Breadboard and jumper wires
-USB cable for programming
-Arduino IDE
+Arduino Uno R4 WiFi,
+Push button,
+LED,
+220Ω resistor,
+10kΩ resistor (pull-down),
+Breadboard and jumper wires,
+USB cable for programming,
+Arduino IDE.
 
 # Procedure
 Connect the button to digital pin 2 and configure as input with pull-down
