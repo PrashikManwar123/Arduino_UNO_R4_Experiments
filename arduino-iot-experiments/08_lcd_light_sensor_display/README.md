@@ -18,5 +18,5 @@ Arduino IDE
 5. Observe the Output on LCD
 
 # Observations
-The sensor reading (like light intensity in lux) is continuously displayed on the LCD.
+The sensor reading (in lux) is continuously displayed on the LCD in intervals of 1 second.
 
