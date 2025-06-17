@@ -1,12 +1,12 @@
-#include <Wire.h>
+#include <Wire.h> 
 #include "Waveshare_LCD1602_RGB.h"
-#include "DFRobot_VEML7700.h"
+#include "DFRobot_VEML7700.h" // Library for light sensor SEN0228
 
 // Create LCD object with 16 columns and 2 rows
 Waveshare_LCD1602_RGB lcd(16, 2);
 
 // Create VEML7700 sensor object
-DFRobot_VEML7700 als;
+DFRobot_VEML7700 als; // als = Ambient Light Sensor
 
 void setup() {
   Serial.begin(9600);
